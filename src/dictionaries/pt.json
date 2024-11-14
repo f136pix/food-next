@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "user": {
+    },
+    "restaurant": {
+      "metadata_title" : "Registrar Restaurante",
+      "metadata_description" : "Registre seu restaurante no Next-Food e aumente sua visibilidade na internet.",
+      "header": "Cadastre seu restaurante"
+    }
+  },
+  "menu": {
+    "home": "Home",
+    "about": "Sobre",
+    "contact": "Contato"
+  }
+}

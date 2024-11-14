@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@prisma/client": "^5.22.0",
+    "clsx": "^2.1.1",
+    "heroicons": "^2.1.5",
+    "next": "15.0.3",
+    "prisma": "^5.22.0",
+    "prisma-json-types-generator": "^3.1.1",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
     "typescript": "^5",

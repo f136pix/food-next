@@ -1,0 +1,20 @@
+{
+  "auth": {
+    "user": {
+    },
+    "restaurant": {
+      "metadata_title": "Register Restaurant",
+      "metadata_description": "Increase your visibility and attract more customers by registering your restaurant on Next-Food",
+      "header": "Create your restaurant"
+    },
+    "header": {
+    }
+  },
+  "header": {
+    "about_us": "About us",
+    "contact": "Contact us",
+    "github": "Github",
+    "login_user": "Login as User",
+    "login_restaurant": "Login as Restaurant"
+  }
+}
