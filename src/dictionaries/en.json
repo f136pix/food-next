@@ -1,8 +1,11 @@
 {
   "auth": {
-    "user": {
+    "users": { 
+      "metadata_title": "Register your user",
+      "metadata_description": "Register yourself to next-food and start ordering your favorite foods now!",
+      "header": "Register yourself !"
     },
-    "restaurant": {
+    "restaurants": {
       "metadata_title": "Register Restaurant",
       "metadata_description": "Increase your visibility and attract more customers by registering your restaurant on Next-Food",
       "header": "Create your restaurant"
@@ -14,6 +17,7 @@
     "about_us": "About us",
     "contact": "Contact us",
     "github": "Github",
+    "login" : "Login",
     "login_user": "Login as User",
     "login_restaurant": "Login as Restaurant"
   }

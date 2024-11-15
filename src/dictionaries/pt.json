@@ -12,5 +12,13 @@
     "home": "Home",
     "about": "Sobre",
     "contact": "Contato"
+  },
+  "header": {
+    "about_us": "Sobre nós",
+    "contact": "Contato",
+    "github": "Github",
+    "login" : "Login",
+    "login_user": "Login como User",
+    "login_restaurant": "Login como Restaurante"
   }
 }

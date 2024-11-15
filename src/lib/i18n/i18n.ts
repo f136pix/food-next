@@ -1,6 +1,6 @@
 export type Lang = 'pt' | 'en';
 
-export const LANGS: string[] = ['pt', 'en'];
+export const LANGS: Lang[] = ['pt', 'en'];
 
 export const otherLang = (lang: Lang) => lang === 'pt' ? 'en' : 'pt';
 
